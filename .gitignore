@@ -1,0 +1,4 @@
+idea/
+venv/
+*.py
+src/data/database.ini
